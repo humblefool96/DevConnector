@@ -8,6 +8,9 @@ Add a default.json file in config folder with the folowing
   "githubToken": ""
 }
 
+visit this website at below URL
+https://vast-gorge-73431.herokuapp.com/
+
 Install server dependencies
 npm install
 
